@@ -1,5 +1,5 @@
 for _ in range(int(input())):
-    n = int(input())
+    n = int(input()) #n
     count = 0
     if n > 2:
         if n % 2 == 0:
